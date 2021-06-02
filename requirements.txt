@@ -10,6 +10,6 @@ idna==2.10
 multidict==4.7.6
 requests==2.24.0
 soupsieve==2.0.1
-urllib3==1.25.10
+urllib3==1.26.5
 wikipedia==1.4.0
 yarl==1.5.1
